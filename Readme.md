@@ -1,2 +1,1 @@
-Olá esse projeto ensina você a usar o Git.
-Isso é uma alteração.
+Aqui eu apresento meus projetos que desenvolvi em python para consolidar meus aprendizados!
